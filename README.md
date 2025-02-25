@@ -134,7 +134,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Muriuki Ian - [ianmuriuki.inc@gmail.com](mailto:ianmuriuki.inc@gmail.com)
 
-Project Link: [https://github.com/ianmuriuki/Portfolia-Example](https://github.com/ianmuriuki/Portfolio-Example)
+Project Link: [https://github.com/ianmuriuki/Portfolio-Example](https://github.com/ianmuriuki/Portfolio-Example)
 
 ## 🙏 Acknowledgments
 
