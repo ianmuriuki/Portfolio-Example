@@ -1,4 +1,4 @@
-# Modern Portfolio Website
+# Portfolio Website
 
 A stunning, responsive portfolio website built with Next.js, Tailwind CSS, and Framer Motion. This website showcases professional work, skills, and contact information with beautiful animations and a modern design.
 
